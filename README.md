@@ -32,10 +32,4 @@
 - **Application Dev:** ☕ **Java** for enterprise solutions and **React** for frontend UI.
 
 ---
-
-### 📊 GitHub Stats
-### 📊 GitHub Stats
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=anna04sokol&show_icons=true&count_private=true)
-
----
 📫 **Let's Connect:** 
