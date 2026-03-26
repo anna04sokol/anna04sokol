@@ -2,7 +2,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJ6YjA0ZmYzaWtkM2sxdXVsY3lqNTJscWt5eWwwMXV0OWF4ZmxvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tBWoHDVfEULuKqEFx8/giphy.gif" align="right" width="200">
 
-- 📍 **Location:** Toronto, Canada
 - 🎓 **Education:** 3-Year Advanced Diploma at [Seneca Polytechnic](https://www.senecapolytechnic.ca/programs/fulltime/CPA.html)
 - 🎯 **Focus:** Data Engineering 🛠️ & Data Science 🧪
 - 📈 **Goal:** Turning messy data into actionable insights
@@ -30,6 +29,3 @@
 
 - **System Programming:** ⚙️ Experience with **C** and **C++** for performance-critical logic.
 - **Application Dev:** ☕ **Java** for enterprise solutions and **React** for frontend UI.
-
----
-📫 **Let's Connect:** 
